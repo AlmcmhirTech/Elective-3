@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761690586759",
+    "project_id": "flutterflow-demo-781fa",
+    "storage_bucket": "flutterflow-demo-781fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761690586759:android:483ab2596feefa10354222",
+        "android_client_info": {
+          "package_name": "com.mycompany.homenotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArw67h-S0WPQNp9E0HnYL8zRUGC6xqUwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
