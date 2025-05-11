@@ -122,7 +122,7 @@ class _SplashWidgetState extends State<SplashWidget> {
                   onPressed: () async {
                     context.pushNamed(Auth1Widget.routeName);
                   },
-                  text: 'Sign Up',
+                  text: 'Sign Uphereger',
                   options: FFButtonOptions(
                     width: 350.0,
                     height: 40.0,
